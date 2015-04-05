@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<const>
+		<redis_host>192.168.1.201</redis_host>
+		<!-- 0：非事务,1:事务发送 -->
+		<mq_ispersistent>0</mq_ispersistent>
+		<memcache_ip>192.168.1.201</memcache_ip>
+		<memcache_port>10001</memcache_port>
+		<memcache_timeout>30000</memcache_timeout>
+		<memcache_minconn>1</memcache_minconn>
+		<memcache_maxconn>50</memcache_maxconn>
+		
+
+		<redis_dbindex>4</redis_dbindex>
+		<jdbcDriver>oracle.jdbc.driver.OracleDriver</jdbcDriver>
+		<dbUrl>jdbc:oracle:thin:@192.168.1.200:1521:mps</dbUrl>
+		<dbUsername>ncidb</dbUsername>
+		<dbPassword>nci123</dbPassword>
+		<testTable></testTable>
+		<testSQL>select 1 from dual</testSQL>
+		<testBeforeUse>true</testBeforeUse>
+		<testAfterUse>true</testAfterUse>
+		<initialConnections>4</initialConnections>
+		<incrementalConnections>3</incrementalConnections>
+		<maxConnections>15</maxConnections>
+		<connectionTimeout>1000</connectionTimeout>
+		<server.port>10001</server.port>
+		<mqlistener.num>1</mqlistener.num>
+		<connPartitionCount>3</connPartitionCount>
+		<CHARGE_LIMIT>100000</CHARGE_LIMIT>
+		
+		<!-- 邮件系统配置 -->
+		<email_hostname>smtp.exmail.qq.com</email_hostname>
+		<email_address>zengyc@nci.com.cn</email_address>
+		<email_password>nci123</email_password>
+		<email_mailname>曾元成</email_mailname>
+	</const>
+</config>

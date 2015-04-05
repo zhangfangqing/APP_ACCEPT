@@ -1,0 +1,17 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>找回密码</title>
+</head>
+<body>
+亲爱的用户&nbsp;{0}：<br/>
+&nbsp;&nbsp;您好！我们是连锁门店管理系统的工作人员！<br/>
+&nbsp;&nbsp;感谢您对连锁门店管理系统的信赖和支持！<br/>
+&nbsp;&nbsp;您在连锁门店管理系统注册的用户名是：{1}<br/>
+&nbsp;&nbsp;您的邮箱地址是：{2}<br/>
+&nbsp;&nbsp;请<a href="{3}">点击</a>或复制这个网址去重新设置您的密码(24小时之内有效)：<br/>
+&nbsp;&nbsp;<a href="{4}">{5}</a><br/>
+&nbsp;&nbsp;最后祝你生活愉快！
+&nbsp;&nbsp;<img src="{6}" border="0"/><br/>
+</body>
+</html>

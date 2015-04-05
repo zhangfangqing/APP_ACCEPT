@@ -1,0 +1,21 @@
+#Thu Mar 20 16:24:39 CST 2014
+eclipse.preferences.version=1
+encoding//src/com/nci/tkb/busi/mail/MailUtils.java=GBK
+encoding//src/com/nci/tkb/busi/mail/VelocityEngineFactory.java=UTF-8
+encoding//src/com/nci/tkb/busi/manager/OperateHandler.java=UTF-8
+encoding//src/com/nci/tkb/busi/manager/OperateManager.java=UTF-8
+encoding//src/com/nci/tkb/busi/server/BusiServer.java=UTF-8
+encoding//src/com/nci/tkb/busi/service/ReqCertHandlerService.java=UTF-8
+encoding//src/com/nci/tkb/busi/service/ReqHandlerService.java=UTF-8
+encoding//src/com/nci/tkb/busi/service/RespHandlerService.java=UTF-8
+encoding//src/com/nci/tkb/busi/serviceimpl/ReqCertHandlerServiceImpl.java=UTF-8
+encoding//src/com/nci/tkb/busi/serviceimpl/ReqHandlerServiceImpl.java=UTF-8
+encoding//src/com/nci/tkb/busi/serviceimpl/RespHandlerServiceImpl.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/BusiCodeUtils.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/CmdnoUtils.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/Configration.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/ShareFieldUtils.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/StaticMethod.java=UTF-8
+encoding//src/com/nci/tkb/busi/utils/StaticUtils.java=UTF-8
+encoding//src/testhttp.java=UTF-8
+encoding/<project>=UTF-8
