@@ -35,13 +35,13 @@ public class RedisUtils
 		//redis主机
 		host = keyconfig.getValue("redis_host");
 		
-		JedisPoolConfig config = new JedisPoolConfig();
-		config.setMaxActive(100);
-		config.setMaxIdle(20);
-		config.setMaxWait((long) 1000);
-		config.setTestOnBorrow(false);
-		// 线程数量限制，IP地址，端口，超时时间
-		pool = new JedisPool(config, host, port, timeout);
+//		JedisPoolConfig config = new JedisPoolConfig();
+//		config.setMaxActive(100);
+//		config.setMaxIdle(20);
+//		config.setMaxWait((long) 1000);
+//		config.setTestOnBorrow(false);
+//		// 线程数量限制，IP地址，端口，超时时间
+//		pool = new JedisPool(config, host, port, timeout);
 
 	}
 
